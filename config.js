@@ -1,9 +1,8 @@
 const nameGirl = 'Mai';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'chúc cậu sinh nhật vui vẻ';
+const eventName = 'Happy Birthday';
 const titleCard = 'Tặng bạn tớ';
-const contentCard = 'Chúc bạn tớ sinh nhật vui vẻ tràn ngập niềm vui và tiếng cười';
-
+const contentCard = 'Happy Birthday bạn của tớ chúc cậu sang tuổi mới nhiều sức khỏe, ngày càng xinh gái hơn học thật giỏi tương lai lấy chồng giàu và mãi là Mai-đẹt-ti-ni của chúng tớ💘';
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
 // Mr-Nam http://facebook.com/nam.nodemy
